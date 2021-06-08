@@ -7,6 +7,8 @@ namespace Teste_git {
             Console.ReadLine();
             //como criar o gitingore
 
+
+            Console.WriteLine("Bom dia !!!");
         }
     }
 }
